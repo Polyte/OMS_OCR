@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/ff7938b1-9fc1-4e3b-a508-7e4c63c2c1aa)
+
+
 # OMS File Processor Application
 
 A full-stack application for processing PDF and image files to extract text content, built with Next.js frontend and Express.js backend.
