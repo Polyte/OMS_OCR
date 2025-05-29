@@ -7,7 +7,7 @@ const Tesseract = require("tesseract.js")
  const pdf = require("pdf-parse");
 
 const app = express()
-const PORT = process.env.PORT || 5009
+const PORT = process.env.PORT || 5000
 
 // Our Middleware
 app.use(
