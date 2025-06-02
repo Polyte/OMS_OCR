@@ -94,6 +94,7 @@ file-processor/
 4. **Start the Next.js development server**:
    \`\`\`bash
    npm run dev
+   
    or pnpm dev
    \`\`\`
 
