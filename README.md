@@ -29,9 +29,9 @@ A full-stack application for processing PDF and image files to extract text cont
 
 ## Project Structure
 
-\`\`\`
+\`\`\` 
 file-processor/
-├── app/                    # Next.js frontend
+├── app/ # Next.js frontend
 │   ├── components/         # React components
 │   ├── lib/               # Utilities and types
 │   ├── results/           # Results page
@@ -62,13 +62,13 @@ file-processor/
    \`\`\`
 
 3. **Start the Express server**:
-   \`\`\`bash
+   ///
    # Development mode with auto-restart
    npm run dev
    
    # Production mode
    npm start
-   \`\`\`
+  
 
    The server will run on `http://localhost:5000`
 
@@ -81,14 +81,20 @@ file-processor/
 
 2. **Install dependencies**:
    \`\`\`bash
-   pnpm install 
+   
+   pnpm install
+   
    pnpm approve builds
-   pnpm build or npm run build
+   
+   pnpm build or
+
+   npm run build
    \`\`\`
 
-3. **Start the Next.js development server**:
+4. **Start the Next.js development server**:
    \`\`\`bash
-   npm run dev or pnpm dev
+   npm run dev
+   or pnpm dev
    \`\`\`
 
    The frontend will run on `http://localhost:3000`
